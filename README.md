@@ -10,3 +10,4 @@ After that I read the description of the challenge and thought of using strings.
 
 strings -a Microsoft.dmp | grep -i "ASCWG"
 
+![Screenshot_2022-08-07_08-09-23](https://user-images.githubusercontent.com/80649768/183290698-9b17f234-105b-40be-9d3d-eb40b84c89e6.png)
