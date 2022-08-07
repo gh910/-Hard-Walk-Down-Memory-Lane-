@@ -1,7 +1,7 @@
 # [Hard] Walk Down Memory Lane Write-up
 Description : 
 
-We have a zip file and this file contains a dmp file.
+We have a zip file and this file contains a file of type dmp format.
 
 
 At first I tried to use the volatility tool but it failed and then I decided to check the header of the file but it was correct. 
