@@ -1,5 +1,4 @@
 # [Hard] Walk Down Memory Lane Write-up
-Description : 
 
 We have a zip file and this file contains a file of type dmp format.
 
