@@ -1,5 +1,7 @@
 # Arab Security Cyber Wargames-[Hard] Walk Down Memory Lane Write-up
 
+Category : Digital Forensics 
+
 We have a zip file and this file contains a file of type dmp format.
 
 
